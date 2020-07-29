@@ -1,0 +1,111 @@
+body {
+
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+  color:white;
+  overflow: auto;
+}
+
+#index{
+  background: rgba(255, 255, 255, 0.0);
+   color: blue;
+   font-family: "Amarillo";
+   left: 0;
+   position: absolute;
+   right: 0;
+   text-align: center
+
+}
+
+#thanks{
+  background: rgba(255, 255, 255, 0.0);
+   color: blue;
+   font-family: "Amarillo";
+   left: 0;
+   position: absolute;
+   right: 0;
+   text-align: center
+}
+
+#loggedin{
+   background: rgba(255, 255, 255, 0.0);
+   color: blue;
+   font-family: "Amarillo";
+   left: 0;
+   position: absolute;
+   right: 0;
+   text-align: center
+}
+
+#top{
+  background: rgba(255, 255, 255, 0.0);
+  color: blue;
+  font-family: "Amarillo";
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center
+}
+
+#pform{
+  background: rgba(255, 255, 255, 0.0);
+   color: rgba(235, 64, 52);
+   left: 0;
+   position: absolute;
+   right: 0;
+}
+
+#gform{
+  background: rgba(255, 255, 255, 0.0);
+   color: rgba(235, 64, 52);
+   left: 0;
+   position: absolute;
+   right: 0;
+}
+
+#login{
+  background: rgba(255, 255, 255, 0.0);
+   color: rgba(235, 64, 52);
+   left: 0;
+   position: absolute;
+   right: 0;
+}
+
+#signup{
+  background: rgba(255, 255, 255, 0.0);
+   color: rgba(235, 64, 52);
+   left: 0;
+   position: absolute;
+   right: 0;
+}
+.chatindex{
+  background: rgba(255, 255, 255, 0.0);
+   color: rgba(235, 64, 52);
+   left: 0px;
+   position: absolute;
+   right: 0;
+}
+
+.row{
+  background: rgba(255, 255, 255, 0.0);
+   color: rgba(235, 64, 52);
+   left:20px;
+   position: absolute;
+   right: 0;
+}
+.allgroup{
+  background: rgba(255, 255, 255, 0.0);
+   color: rgba(235, 64, 52);
+   left:20px;
+   position: absolute;
+   right: 0;
+}
+.posts-page{
+  background: rgba(255, 255, 255, 0.0);
+   color: rgba(235, 64, 52);
+   left: 0px;
+   top: 80px;
+   position: absolute;
+   right: 0;
+}
